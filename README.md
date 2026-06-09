@@ -35,3 +35,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yuri%20Ventura-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yventura)
 
 [![GitHub](https://img.shields.io/badge/GitHub-v3ntura-black?style=for-the-badge&logo=github)](https://github.com/yventura)
+
+[![Email](https://img.shields.io/badge/Email-Contato-red?style=for-the-badge&logo=gmail)](mailto:yuri.ventura46@gmail.com)
