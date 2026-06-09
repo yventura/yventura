@@ -1,8 +1,5 @@
-# Yuri Ventura
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/feb827b9-e3da-435a-8dd4-b5b5a2b65472" />
 
-Estudante de Tecnologia da Informação com interesse em Dados, Cloud e Engenharia de Dados.
-
-Atualmente aprimorando conhecimentos em Python, SQL, modelagem de bancos de dados e Business Intelligence, buscando desenvolver soluções que transformem dados em informação e valor para o negócio.
 
 ---
 
@@ -30,11 +27,6 @@ Atualmente aprimorando conhecimentos em Python, SQL, modelagem de bancos de dado
 
 ---
 
-## Objetivo Profissional
-
-Construir uma carreira em Dados e Cloud Computing, atuando no desenvolvimento de soluções que envolvam análise de dados, modelagem de bancos de dados, automação de processos e engenharia de dados.
-
----
 
 ## Contato
 
