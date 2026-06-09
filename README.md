@@ -1,40 +1,43 @@
 # Yuri Ventura
 
-Estudante de Tecnologia da Informação com foco em Dados, Business Intelligence e Engenharia de Dados.
+Estudante de Tecnologia da Informação com interesse em Dados, Cloud e Engenharia de Dados.
 
-Atualmente desenvolvendo conhecimentos em Python, SQL, Banco de Dados e soluções orientadas a dados para análise, automação e suporte à tomada de decisão.
+Atualmente aprimorando conhecimentos em Python, SQL, modelagem de bancos de dados e Business Intelligence, buscando desenvolver soluções que transformem dados em informação e valor para o negócio.
 
 ---
 
+## Áreas de Interesse
+
+📊 Análise de Dados
+📈 Business Intelligence
+☁️ Cloud Computing
+⚙️ Engenharia de Dados
+
 ## Tecnologias
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+🐍 Python
+🗄️ SQL
+📊 Power BI
+🔧 Git
 
 ---
 
 ## Estatísticas GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=v3ntura&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yventura&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=v3ntura&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yventura&layout=compact)
 
 ---
 
-## Objetivos
+## Objetivo Profissional
 
-Atualmente estou desenvolvendo projetos para aprofundar conhecimentos em:
-
-- Python para análise de dados
-- SQL e modelagem de bancos de dados
-- Power BI
-- ETL e automação de processos
-- Engenharia de Dados
+Construir uma carreira em Dados e Cloud Computing, atuando no desenvolvimento de soluções que envolvam análise de dados, modelagem de bancos de dados, automação de processos e engenharia de dados.
 
 ---
 
 ## Contato
 
-LinkedIn: [SEU_LINKEDIN_AQUI](https://www.linkedin.com/in/yventura)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yuri%20Ventura-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yventura)
+
+[![GitHub](https://img.shields.io/badge/GitHub-v3ntura-black?style=for-the-badge&logo=github)](https://github.com/yventura)
