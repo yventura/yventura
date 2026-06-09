@@ -5,19 +5,20 @@
 
 ---
 
-## Áreas de Interesse
+## 🎯 Foco em Dados, Cloud Computing e Engenharia de Dados
 
-📊 Análise de Dados
-📈 Business Intelligence
-☁️ Cloud Computing
-⚙️ Engenharia de Dados
+- Python (análise e automação de dados)  
+- SQL (modelagem e consultas)  
+- Power BI (dashboards e análise de dados)  
+- Modelagem de dados  
+- ETL / ELT (conceitos e práticas iniciais)  
+- Cloud Computing (fundamentos e serviços essenciais)
 
-## Tecnologias
+---
 
-🐍 Python
-🗄️ SQL
-📊 Power BI
-🔧 Git
+## 📌 Objetivo
+
+Atuar em projetos de dados, apoiando na construção de pipelines, análise de dados e desenvolvimento de soluções em ambientes de cloud.
 
 ---
 
