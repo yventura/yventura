@@ -1,10 +1,8 @@
-# Olá, eu sou Yuri Ventura 👋
+# Yuri Ventura
 
-🎓 Estudante de Tecnologia da Informação
+Estudante de Tecnologia da Informação com foco em Dados, Business Intelligence e Engenharia de Dados.
 
-📊 Interesse em Análise de Dados, BI e Engenharia de Dados
-
-🐍 Estudando Python, SQL, Power BI e Banco de Dados
+Atualmente desenvolvendo conhecimentos em Python, SQL, Banco de Dados e soluções orientadas a dados para análise, automação e suporte à tomada de decisão.
 
 ---
 
